@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**xiyang-aads-lilly/xiyang-aads-lilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Name: Xi Yang
+- Alias: Alex
+- Pronounce: He/Him
+- Working on NLP, LLM, GenAI
+- Good at large scale training across multi-GPUs and Multi-Nodes
+- Experience in clinical trial cohort selection
+- Want to learn deep learning driven drug discovery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## This is the Github Account for Xi Yang (Bugface) at Eli Lilly
+
+- check my github at https://github.com/bugface
+
+
+
+## Open to all coleborations on deep learning
+
+- PyTorch
+- Hugginface ecosystem
+- Nvidia ecosystem
+- PySpark
+
+![image](./image/showmecode.jpeg)
+![image](./image/16659741.jpeg)
+
+
