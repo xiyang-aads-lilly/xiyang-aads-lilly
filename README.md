@@ -25,6 +25,6 @@
 - PySpark
 
 ![image](./image/showmecode.jpeg)
-![image](./image/Eli_Lilly_logo.jpeg)
+![image](image/Eli_Lilly_logo.jpg)
 
 
