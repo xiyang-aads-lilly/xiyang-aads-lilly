@@ -14,7 +14,7 @@
 - check my github at https://github.com/bugface
 
 ## Open to all coleborations on deep learning
-- PyTorch
+- PyTorch, pytorch-lightening, deepspeed
 - Hugginface ecosystem
 - Nvidia ecosystem
 - PySpark
