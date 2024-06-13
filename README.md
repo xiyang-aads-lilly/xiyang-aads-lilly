@@ -18,6 +18,7 @@
 - Hugginface ecosystem
 - Nvidia ecosystem
 - PySpark
+  
 ![image](./image/grid-snake.svg)
 
 ## GitHub Statistics
