@@ -19,7 +19,7 @@
 - Nvidia ecosystem
 - PySpark
   
-![image](./image/grid-snake.svg)
+<!--- ![image](./image/grid-snake.svg) --->
 
 ## GitHub Statistics
 <!-- <a href="https://github.com/xiyang-aads-lilly/xiyang-aads-lilly">
