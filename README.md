@@ -11,7 +11,7 @@
 - Want to learn deep learning driven drug discovery
 
 ## This is the Github Account for Xi Yang (Bugface) at Eli Lilly
-- check my github at https://github.com/bugface
+- check my personal github at https://github.com/bugface
 
 ## Open to all coleborations on deep learning
 - PyTorch, pytorch-lightening, deepspeed
